@@ -24,9 +24,39 @@ Estos son solo algunos de los comandos básicos de Git. Hay muchos más comandos
 ## Ejemplos de uso:
 
 1. Crea un repositorio local:
+
+```bash
+mkdir mi-repositorio
+cd mi-repositorio
+git init
+```
+
 2. Crea un archivo y agrega algunos cambios:
+
+```bash
+echo "Hola, mundo" > archivo.txt
+git add archivo.txt
+```
+
+Esto crea un nuevo archivo llamado `archivo.txt` y lo agrega al área de preparación.
+
 3. Confirma los cambios:
+
+```bash
+git commit -m "Agregado archivo.txt"
+```
+
+Esto confirma los cambios en el repositorio local con el mensaje "Agregado archivo.txt".
+
 4. Agrega más cambios al archivo:
+
+```bash
+echo "Este es un archivo de ejemplo" >> archivo.txt
+git add archivo.txt
+```
+
+Esto agrega más cambios al archivo `archivo.txt` y lo vuelve a agregar al área de preparación.
+
 5. Confirma los cambios:
 
 ```bash
@@ -130,3 +160,73 @@ git push -u origin main
 ```
 
 Esto sube los cambios del repositorio local al remoto en GitHub en la rama principal (`main`). La opción `-u` establece una conexión entre el repositorio local y el remoto para futuras operaciones de push/pull.
+
+## Conflictos en un repositorio local:
+
+Supongamos que tienes un archivo llamado `archivo.txt` en tu repositorio local y dos colaboradores diferentes han realizado cambios en diferentes partes del archivo y han confirmado sus cambios. Cuando intentas fusionar los cambios en tu rama local, Git detecta un conflicto de merge. Para solucionarlo, sigue estos pasos:
+
+1.  Actualiza tu repositorio local con los cambios remotos:
+
+```bash
+git fetch origin
+```
+
+Esto descarga los cambios remotos en tu repositorio local, pero no los fusiona con tus cambios locales.
+
+2.  Cambia a la rama que quieres fusionar:
+
+```bash
+git checkout mi-rama
+```
+
+Esto cambia a la rama en la que estás trabajando y que quieres fusionar con los cambios remotos.
+
+3.  Fusiona los cambios remotos en tu rama local:
+
+```bash
+git merge origin/mi-rama
+```
+
+Esto fusiona los cambios remotos en tu rama local. Si Git detecta un conflicto de merge, mostrará un mensaje indicándote que hay conflictos.
+
+4.  Abre el archivo en conflicto:
+
+```bash
+git mergetool archivo.txt
+```
+
+Esto abre una herramienta de fusión de conflictos para que puedas ver y editar los cambios en conflicto. La herramienta de fusión dependerá de la configuración de tu sistema.
+
+5. Resuelve los conflictos manualmente:
+	Edite el archivo en conflicto y elimine los conflictos manualmente. Los conflictos se indicarán con marcadores especiales, como `<<<<<<<`, `=======` y `>>>>>>>`.
+6. Agrega el archivo en conflicto al área de preparación:
+
+```bash
+git add archivo.txt
+```
+
+Esto agrega el archivo en conflicto resuelto al área de preparación.
+
+7.  Confirma los cambios resueltos:
+
+```bash
+git commit -m "Solucionado conflicto en archivo.txt"
+```
+
+Esto confirma los cambios resueltos con un mensaje indicando que el conflicto se ha solucionado.
+
+8.  Continúa con la fusión:
+
+```bash
+git merge origin/mi-rama
+```
+
+Esto continúa con la fusión y, si no hay más conflictos, Git fusionará los cambios remotos en tu rama local.
+
+9.  Sube los cambios al repositorio remoto:
+
+```bash
+git push origin mi-rama
+```
+
+Esto sube los cambios de tu rama local al repositorio remoto.

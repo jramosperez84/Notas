@@ -1,4 +1,4 @@
-- Kotlin
-- Java
+- [Kotlin](Lenguajes_programacion/Kotlin.md)
+- [Java](Lenguajes_programacion/Java.md)
 - Python
 - JavaScript
