@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9c7440fef47e0fed",
+        "id": "eaef5be230d1919b",
         "type": "tabs",
         "children": [
           {
-            "id": "f2cdf953e8b5ffe0",
+            "id": "527cc7e83c47900a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f07990c13d477cd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lenguajes_programacion/csharp/Indice.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lenguajes_programacion/csharp/Indice.md",
+                "file": "Lenguajes_programacion/csharp/C_Sharp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lenguajes_programacion/csharp/Indice.md",
+                "file": "Lenguajes_programacion/csharp/C_Sharp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lenguajes_programacion/csharp/Indice.md"
+                "file": "Lenguajes_programacion/csharp/C_Sharp.md"
               }
             }
           }
@@ -159,13 +146,13 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "f07990c13d477cd6",
+  "active": "527cc7e83c47900a",
   "lastOpenFiles": [
-    "Lenguajes_programacion/csharp/C_Sharp.md",
     "Lenguajes_programacion/csharp/Indice.md",
     "Lenguajes_de_programacion.md",
-    "Lenguajes_programacion/kotlin/Kotlin.md",
     "README.md",
+    "Lenguajes_programacion/csharp/C_Sharp.md",
+    "Lenguajes_programacion/kotlin/Kotlin.md",
     "Lenguajes_programacion/csharp/Unity.md",
     "Herramientas/Docker.md",
     "Herramientas_de_desarrollo.md",
