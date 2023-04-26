@@ -2,7 +2,7 @@
 
 Kotlin es un lenguaje de programación moderno que se ejecuta en la plataforma de Java Virtual Machine (JVM) y que también puede ser compilado a código nativo. Fue desarrollado por JetBrains y lanzado en 2011. Kotlin está diseñado para ser seguro, conciso, expresivo y compatible con Java, lo que significa que puedes usar bibliotecas de Java en tu código Kotlin sin problemas. Kotlin es ampliamente utilizado para el desarrollo de aplicaciones móviles Android, así como para aplicaciones de servidor, aplicaciones web y más.
 
-## Variables:
+## Tipos de datos:
 
 ### Variables de tipo entero:
 

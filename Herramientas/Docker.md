@@ -78,25 +78,25 @@ docker ps
 
 - `docker run`: Ejecuta un contenedor a partir de una imagen.
 
-```arduino
+```bash
 docker run -it --name mi-contenedor ubuntu
 ```
 
 - `docker start`: Inicia un contenedor detenido.
 
-```sql
+```bash
 docker start mi-contenedor
 ```
 
 - `docker stop`: Detiene un contenedor en ejecución.
 
-```arduino
+```bash
 docker stop mi-contenedor
 ```
 
 - `docker restart`: Reinicia un contenedor.
 
-```
+```bash
 docker restart mi-contenedor
 ```
 
@@ -116,19 +116,19 @@ docker network ls
 
 - `docker network create`: Crea una red en Docker.
 
-```lua
+```bash
 docker network create mi-red
 ```
 
 - `docker network connect`: Conecta un contenedor a una red.
 
-```arduino
+```bash
 docker network connect mi-red mi-contenedor
 ```
 
 - `docker network disconnect`: Desconecta un contenedor de una red.
 
-```arduino
+```bash
 docker network disconnect mi-red mi-contenedor
 ```
 
@@ -142,7 +142,7 @@ docker volume ls
 
 - `docker volume create`: Crea un volumen en Docker.
 
-```lua
+```bash
 docker volume create mi-volumen
 ```
 
@@ -162,19 +162,19 @@ docker exec -it mi-contenedor bash
 
 - `docker logs`: Muestra los logs de un contenedor.
 
-```
+```bash
 docker logs mi-contenedor
 ```
 
 - `docker inspect`: Muestra información detallada de un contenedor o imagen.
 
-```
+```bash
 docker inspect mi-contenedor
 ```
 
 - `docker-compose`: Gestiona múltiples contenedores como una aplicación.
 
-```
+```bash
 docker-compose up
 ```
 
