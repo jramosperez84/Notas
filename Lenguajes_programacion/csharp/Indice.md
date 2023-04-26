@@ -1,2 +1,2 @@
-- [Uso básico de C#](Lenguajes_programacion/csharp/C_Sharp.md)
+- [Uso basico de C#](Lenguajes_programacion/csharp/C_Sharp.md)
 - [Unity](Lenguajes_programacion/csharp/Unity.md)
