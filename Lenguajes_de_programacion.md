@@ -1,5 +1,5 @@
-- [Kotlin](Kotlin.md)
-- [Java](Java.md)
-- [CSharp](Indice.md)
+- [Kotlin](Lenguajes_programacion/kotlin/Kotlin.md)
+- [Java](Lenguajes_programacion/java/Java.md)
+- [CSharp](Lenguajes_programacion/csharp/Indice.md)
 - Python
 - JavaScript
