@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lenguajes_programacion/csharp/C_Sharp.md",
+                "file": "Sistemas_de_gestion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lenguajes_programacion/csharp/C_Sharp.md",
+                "file": "Sistemas_de_gestion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lenguajes_programacion/csharp/C_Sharp.md",
+                "file": "Sistemas_de_gestion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lenguajes_programacion/csharp/C_Sharp.md"
+                "file": "Sistemas_de_gestion.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "527cc7e83c47900a",
   "lastOpenFiles": [
-    "Lenguajes_programacion/csharp/Indice.md",
     "Lenguajes_de_programacion.md",
+    "Sistemas_de_gestion.md",
     "README.md",
     "Lenguajes_programacion/csharp/C_Sharp.md",
+    "Lenguajes_programacion/csharp/Indice.md",
     "Lenguajes_programacion/kotlin/Kotlin.md",
     "Lenguajes_programacion/csharp/Unity.md",
     "Herramientas/Docker.md",
