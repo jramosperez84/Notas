@@ -133,3 +133,5 @@ ROLLBACK;
 ```
 
 [Documentación oficial](https://sqlite.org/docs.html)
+
+[Volver](/SQL.md)

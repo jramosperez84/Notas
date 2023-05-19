@@ -95,3 +95,5 @@ void Awake() {
 Esta línea de código comprueba si la variable estática `Instance` es igual a `null`. Si es así, establece el valor de `Instance` en la instancia actual de la clase `Record` (`this`).
 
 Al establecer la variable estática `Instance` en la instancia actual de la clase `Record`, cualquier otro script en tu proyecto puede acceder a la instancia actual de la clase `Record` utilizando la variable estática `Record.Instance`. Esto es útil cuando necesitas acceder a métodos o variables públicas de la clase `Record` desde otros scripts sin tener que crear una nueva instancia de la clase.
+
+[Volver](Indice.md)

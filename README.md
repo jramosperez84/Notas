@@ -6,6 +6,6 @@ Bienvenidos a mis notas, aquí voy almacenando apuntes para mis estudios y crean
 - [Lenguajes_de_marcado](Lenguajes_de_marcado.md)
 - [SQL](SQL.md)
 - [Herramientas_de_desarrollo](Herramientas_de_desarrollo.md)
-- [Sistemas_de_gestión_empresarial](Sistemas_de_gestion)
+- [Sistemas_de_gestión_empresarial](Indice_SGE.md)
 
 ![en_desarrollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)

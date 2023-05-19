@@ -384,3 +384,5 @@ static void Main(string[] args)
 ```
 
 En este ejemplo, se crea una instancia de la clase "Persona" llamada "persona1". Luego, se establecen los valores de las propiedades "Nombre" y "Edad" de la instancia utilizando la sintaxis de punto. Finalmente, se llama al método "Presentarse" de la instancia, lo que muestra un saludo en la consola.
+
+[Volver](Indice.md)

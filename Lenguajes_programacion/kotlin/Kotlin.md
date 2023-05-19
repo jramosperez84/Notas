@@ -431,3 +431,5 @@ println("La suma es $result1 y el producto es $result2")
 En este ejemplo, se define una clase llamada "MathUtils" con un objeto "companion" que contiene dos métodos estáticos: "sum" y "multiply". Los métodos simplemente realizan una suma y una multiplicación de dos números enteros y devuelven el resultado.
 
 Luego, se llama a los métodos "sum" y "multiply" de la clase "MathUtils" para realizar las operaciones y se almacenan los resultados en las variables "result1" y "result2". Finalmente, se imprime un mensaje en la consola que muestra los resultados.
+
+[Volver](/Lenguajes_de_programacion.md)
