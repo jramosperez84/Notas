@@ -1,8 +1,8 @@
-## 1.¿Qué es un sistema de gestión empresarial -ERP?
+## 1.¿Qué es un sistema de gestión empresarial - ERP?
 
 Un sistema de gestión empresarial (ERP) es un conjunto de aplicaciones de software integradas en un único entorno informático con esquema cliente-servidor que permiten la gestión de todos los procesos de las empresas. Su uso aumenta la productividad y reduce el número de errores por incoherencia de datos. (Página 20)
 
-## 2.¿Qué es un sistema de gestión empresarial -CRM?
+## 2.¿Qué es un sistema de gestión empresarial - CRM?
 
 Un sistema de gestión de relaciones con los clientes (CRM) es un conjunto de aplicaciones de software que permiten a las empresas gestionar y analizar las interacciones con sus clientes y potenciales clientes. Entre las funcionalidades habituales de un CRM se encuentran la gestión de ventas, marketing, comercio y redes sociales. (Página 20)
 
