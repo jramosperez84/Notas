@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas_gestion/Sistemas_de_gestion_parte1.md",
+                "file": "Sistemas_gestion/Sistemas_de_gestion_parte2.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas_gestion/Sistemas_de_gestion_parte1.md",
+                "file": "Sistemas_gestion/Sistemas_de_gestion_parte2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas_gestion/Sistemas_de_gestion_parte1.md",
+                "file": "Sistemas_gestion/Sistemas_de_gestion_parte2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas_gestion/Sistemas_de_gestion_parte1.md"
+                "file": "Sistemas_gestion/Sistemas_de_gestion_parte2.md"
               }
             }
           }
@@ -158,10 +158,10 @@
   "active": "0630c645bb7f26b6",
   "lastOpenFiles": [
     "Sistemas_gestion/nuevo_resumen.md",
-    "Indice_SGE.md",
     "Sistemas_gestion/Sistemas_de_gestion_parte2.md",
-    "Sistemas_de_gestion_parte2.pdf",
     "Sistemas_gestion/Sistemas_de_gestion_parte1.md",
+    "Indice_SGE.md",
+    "Sistemas_de_gestion_parte2.pdf",
     "Untitled.canvas",
     "README.md",
     "Lenguajes_programacion/Programacion_movil.md",

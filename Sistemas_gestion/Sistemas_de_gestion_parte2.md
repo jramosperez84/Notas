@@ -65,9 +65,7 @@ En resumen, un sistema ERP ofrece beneficios como la integración de software, e
 
 Los sistemas de gestión empresarial (ERP) comenzaron su desarrollo y evolución con la aparición de los ordenadores personales. En su origen, estas aplicaciones nacen de una necesidad militar, pues tras la Segunda Guerra Mundial, en la década de los 50, el ejército norteamericano comienza a utilizar programas informáticos para gestionar las tareas de producción y logística en sus primitivas computadoras. A partir de ahí, se fueron desarrollando soluciones específicas para cada área empresarial hasta llegar a los sistemas ERP actuales que integran todas las áreas en una sola solución. (página 8)
 
-## 5. Principales fabricantes de software de sistemas de
-
-gestión empresarial
+## 5. Principales fabricantes de software de sistemas de gestión empresarial
 
 Entre los principales fabricantes de sistemas de gestión empresarial (ERP) destacan SAP, Oracle, Microsoft y SAGE. Además, existen soluciones libres de código abierto como OpenERP y OpenBravo. (página 22)
 
